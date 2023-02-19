@@ -1,0 +1,48 @@
+cabin 0
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 1
+     Passenger 0- • First name : qerw , • Last name : asdf , • Expenses : 45.0
+     Passenger 1- • First name : wq , • Last name : er , • Expenses : 23.0
+     Passenger 2- • First name : we , • Last name : re , • Expenses : 23.0
+cabin 2
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 3
+     Passenger 0- • First name : df , • Last name : fd , • Expenses : 7.0
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 4
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 5
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 6
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 7
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 8
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 9
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 10
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
+cabin 11
+     Passenger 0- Empty
+     Passenger 1- Empty
+     Passenger 2- Empty
